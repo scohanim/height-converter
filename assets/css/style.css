@@ -4,10 +4,12 @@ body {
 
 .feet {
   margin-bottom: 20px;
+  text-align: right;
 }
 
 .inches {
   margin-bottom: 20px;
+  text-align: right;
 }
 
 .container {
@@ -21,10 +23,14 @@ h1 {
   padding: 20px;
 }
 
-.button {
+.convert {
   width: 250px;
   margin-bottom: 20px;
   font-size: 15px;
   background-color: rgb(238, 238, 238);
   place-self: center;
+}
+
+.meters {
+  text-align: right;
 }
