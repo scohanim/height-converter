@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(228, 219, 228);
+}
+
+.feet {
+  margin-bottom: 20px;
+}
+
+.inches {
+  margin-bottom: 20px;
+}
+
+.container {
+  display: grid;
+  width: 250px;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+  padding: 20px;
+}
+
+.button {
+  width: 250px;
+  margin-bottom: 20px;
+  font-size: 15px;
+  background-color: rgb(238, 238, 238);
+  place-self: center;
+}
